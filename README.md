@@ -1,4 +1,4 @@
-# 📰 News Category Classification
+# News Category Classification
 
 This project uses Machine Learning to classify news headlines into categories like politics, tech, sports, etc.
 
