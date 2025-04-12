@@ -20,3 +20,6 @@ Used: News Category Dataset from Kaggle
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `notebooks/01_exploration.ipynb` to begin
+4. Restart JUPYTER Kernel and hit Run All on the top
+5. See the output in the deignated cell in the below code
+6. One can access the trained data which get saved in the `models/saved_model.pkl` for further/future use.
