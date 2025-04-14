@@ -1,10 +1,10 @@
 # News Category Classification
-
 This project uses Machine Learning to classify news headlines into categories like politics, tech, sports, etc.
 
 ##  Models Used
 - Naive Bayes
 - Logistic Regression
+- Decision Tree
 
 ## Dataset
 Used: News Category Dataset from Kaggle
